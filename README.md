@@ -7,7 +7,7 @@ All names will be added back into `self.NAMES` when each name has been chosen at
 
 * Replace `self.NAMES` with the names that you wish to be randomly generator.
 * Colors are randomly generated
-* Speed is created via `time.sleep` method which takes in one parameter (how long to delay)
+* Speed is simulated via `time.sleep` method which takes in one parameter (how long to delay)
 
 ### Run With
 > python3 rng.py
