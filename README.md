@@ -14,4 +14,4 @@ All names will be added back into `self.NAMES` when each name has been chosen at
 * Tkinter
 
 ### Run With
-> python3 rng.py
+'''python3 rng.py'''
