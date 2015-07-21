@@ -9,5 +9,9 @@ All names will be added back into `self.NAMES` when each name has been chosen at
 * Colors are randomly generated
 * Speed is simulated via `time.sleep` method which takes in one parameter (how long to delay)
 
+### Required Packages
+
+* Tkinter
+
 ### Run With
 > python3 rng.py
